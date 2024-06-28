@@ -1,0 +1,19 @@
+bscscan-python==1.0.0
+currencyconverter
+js2py
+jupyter
+keyring
+keyrings.cryptfile
+matplotlib
+mintapi
+numpy
+pandas
+plotly
+pre-commit
+pycoingecko
+python-binance>=0.7.10
+pyyaml
+selenium
+web3
+yfinance>=0.1.63
+fileup @ git+https://github.com/basnijholt/fileup.git#egg=fileup
